@@ -37,10 +37,39 @@ The purpose of the term projects is to research and study an energy conversion t
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| 6 Assignments | 66% (11% each) |
-| Term Report | 34% (9% midterm report + 20% final report + 5% presentation) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6 Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+66% (11% each)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Term Report
+{{< tdclose >}}
+{{< tdopen >}}
+34% (9% midterm report + 20% final report + 5% presentation)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Schedule Note
 -------------
