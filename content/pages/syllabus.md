@@ -12,7 +12,7 @@ Lectures: 2 sessions / week, 2 hours / session
 Prerequisites
 -------------
 
-_2.006 Thermal-Fluids Engineering II_, (_[2.051 Introduction to Heat Transfer](/courses/2-051-introduction-to-heat-transfer-fall-2015/)_ and _[2.06 Fluid Dynamics](/courses/2-06-fluid-dynamics-spring-2013/)_), or permission of instructor.
+_2.006 Thermal-Fluids Engineering II_, (_[2.051 Introduction to Heat Transfer](/courses/2-051-introduction-to-heat-transfer-fall-2015)_ and _[2.06 Fluid Dynamics](/courses/2-06-fluid-dynamics-spring-2013)_), or permission of instructor.
 
 Description
 -----------
